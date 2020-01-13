@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\damia\\OneDrive\\Escritorio\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+      "projectUniqueName": "C:\\Users\\damia\\OneDrive\\Escritorio\\ContosoUniversity\\ContosoUniversity.csproj",
       "projectName": "ContosoUniversity",
-      "projectPath": "C:\\Users\\damia\\OneDrive\\Escritorio\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+      "projectPath": "C:\\Users\\damia\\OneDrive\\Escritorio\\ContosoUniversity\\ContosoUniversity.csproj",
       "packagesPath": "C:\\Users\\damia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\damia\\OneDrive\\Escritorio\\ContosoUniversity\\ContosoUniversity\\obj\\",
+      "outputPath": "C:\\Users\\damia\\OneDrive\\Escritorio\\ContosoUniversity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\damia\\AppData\\Roaming\\NuGet\\NuGet.Config",
