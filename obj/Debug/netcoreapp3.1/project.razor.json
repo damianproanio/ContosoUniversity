@@ -20506,6 +20506,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\damia\\OneDrive\\Escritorio\\ContosoUniversity\\RazorPagesMovie\\Pages\\Index.cshtml",
+      "TargetPath": "RazorPagesMovie\\Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\damia\\OneDrive\\Escritorio\\ContosoUniversity\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
@@ -20516,8 +20521,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\damia\\OneDrive\\Escritorio\\ContosoUniversity\\RazorPagesMovie\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "RazorPagesMovie\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\damia\\OneDrive\\Escritorio\\ContosoUniversity\\RazorPagesMovie\\Pages\\Error.cshtml",
+      "TargetPath": "RazorPagesMovie\\Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\damia\\OneDrive\\Escritorio\\ContosoUniversity\\RazorPagesMovie\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "RazorPagesMovie\\Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\damia\\OneDrive\\Escritorio\\ContosoUniversity\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\damia\\OneDrive\\Escritorio\\ContosoUniversity\\RazorPagesMovie\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "RazorPagesMovie\\Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -20528,6 +20553,16 @@
     {
       "FilePath": "c:\\Users\\damia\\OneDrive\\Escritorio\\ContosoUniversity\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\damia\\OneDrive\\Escritorio\\ContosoUniversity\\RazorPagesMovie\\Pages\\Privacy.cshtml",
+      "TargetPath": "RazorPagesMovie\\Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\damia\\OneDrive\\Escritorio\\ContosoUniversity\\RazorPagesMovie\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "RazorPagesMovie\\Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
