@@ -20501,8 +20501,28 @@
   "RootNamespace": "ContosoUniversity",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\damia\\OneDrive\\Escritorio\\ContosoUniversity\\Pages\\Courses\\Edit.cshtml",
+      "TargetPath": "Pages\\Courses\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\damia\\OneDrive\\Escritorio\\ContosoUniversity\\Pages\\Students\\Delete.cshtml",
       "TargetPath": "Pages\\Students\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\damia\\OneDrive\\Escritorio\\ContosoUniversity\\Pages\\Instructors\\Create.cshtml",
+      "TargetPath": "Pages\\Instructors\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\damia\\OneDrive\\Escritorio\\ContosoUniversity\\Pages\\Courses\\Create.cshtml",
+      "TargetPath": "Pages\\Courses\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\damia\\OneDrive\\Escritorio\\ContosoUniversity\\Pages\\Instructors\\Delete.cshtml",
+      "TargetPath": "Pages\\Instructors\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -20531,6 +20551,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\damia\\OneDrive\\Escritorio\\ContosoUniversity\\Pages\\Instructors\\Index.cshtml",
+      "TargetPath": "Pages\\Instructors\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\damia\\OneDrive\\Escritorio\\ContosoUniversity\\Pages\\About.cshtml",
       "TargetPath": "Pages\\About.cshtml",
       "FileKind": "mvc"
@@ -20541,8 +20566,33 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\damia\\OneDrive\\Escritorio\\ContosoUniversity\\Pages\\Courses\\Details.cshtml",
+      "TargetPath": "Pages\\Courses\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\damia\\OneDrive\\Escritorio\\ContosoUniversity\\Pages\\Courses\\Index.cshtml",
+      "TargetPath": "Pages\\Courses\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\damia\\OneDrive\\Escritorio\\ContosoUniversity\\Pages\\Instructors\\Details.cshtml",
+      "TargetPath": "Pages\\Instructors\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\damia\\OneDrive\\Escritorio\\ContosoUniversity\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\damia\\OneDrive\\Escritorio\\ContosoUniversity\\Pages\\Instructors\\Edit.cshtml",
+      "TargetPath": "Pages\\Instructors\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\damia\\OneDrive\\Escritorio\\ContosoUniversity\\Pages\\Courses\\Delete.cshtml",
+      "TargetPath": "Pages\\Courses\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
