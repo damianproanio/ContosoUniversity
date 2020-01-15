@@ -162,3 +162,8 @@ C:\Users\damia\OneDrive\Escritorio\ContosoUniversity\obj\Debug\netcoreapp3.1\Raz
 C:\Users\damia\OneDrive\Escritorio\ContosoUniversity\obj\Debug\netcoreapp3.1\Razor\Pages\Instructors\Details.cshtml.g.cs
 C:\Users\damia\OneDrive\Escritorio\ContosoUniversity\obj\Debug\netcoreapp3.1\Razor\Pages\Instructors\Edit.cshtml.g.cs
 C:\Users\damia\OneDrive\Escritorio\ContosoUniversity\obj\Debug\netcoreapp3.1\Razor\Pages\Instructors\Index.cshtml.g.cs
+C:\Users\damia\OneDrive\Escritorio\ContosoUniversity\obj\Debug\netcoreapp3.1\Razor\Pages\Departments\Create.cshtml.g.cs
+C:\Users\damia\OneDrive\Escritorio\ContosoUniversity\obj\Debug\netcoreapp3.1\Razor\Pages\Departments\Delete.cshtml.g.cs
+C:\Users\damia\OneDrive\Escritorio\ContosoUniversity\obj\Debug\netcoreapp3.1\Razor\Pages\Departments\Details.cshtml.g.cs
+C:\Users\damia\OneDrive\Escritorio\ContosoUniversity\obj\Debug\netcoreapp3.1\Razor\Pages\Departments\Edit.cshtml.g.cs
+C:\Users\damia\OneDrive\Escritorio\ContosoUniversity\obj\Debug\netcoreapp3.1\Razor\Pages\Departments\Index.cshtml.g.cs
